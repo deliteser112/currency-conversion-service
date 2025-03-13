@@ -59,7 +59,7 @@ Ensure you have the following installed:
 
 ### 2️⃣ Clone the Repository
 ```
-git clone https://github.com/monstermario/currency-conversion-service.git
+git clone https://github.com/deliteser112/currency-conversion-service.git
 cd currency-conversion-service
 ```
 
